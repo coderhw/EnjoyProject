@@ -26,7 +26,6 @@ UITableViewDataSource
     
     [super viewDidLoad];
     
-    
     self.titleStr = @"我的";
     self.view.backgroundColor = [UIColor whiteColor];
     self.nameArray = @[@[@""],@[@"提醒",@"我的二维码",@"短信模板"],@[@"设置"]];
